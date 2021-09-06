@@ -1,3 +1,6 @@
+
+---
+
 <img align="right" width="150" height="150" src="picture.png">
 
 # Shanmukhananda E R (Shanmukha)
@@ -202,5 +205,14 @@ Programming, OOAD, UML, Design Patterns, Travelling, Cooking, Badminton, Physica
 | Date of Birth | 03 Sep 1989 |
 | Location      | Bengaluru, India |
 | Nationality   | Indian |
+
+---
+
+## Social Media
+- [LinkedIn](https://www.linkedin.com/in/shanmukhananda)
+- [GitHub](https://github.com/shanmukhananda)
+- [XING](https://www.xing.com/profile/SHANMUKHANANDA_ER)
+- [Facebook](https://www.facebook.com/shanmukhananda)
+- [Instagram](https://www.instagram.com/shanmukhananda)
 
 ---
