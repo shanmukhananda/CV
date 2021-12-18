@@ -83,8 +83,7 @@ ADAS (Advanced Driver Assistance Systems) using Front Facing Camera Project aims
 
 #### Roles/Responsibility
 
-- Implementation of Camera Pipeline for Perception Algorithm
-- Implementation of CAN Pipeline for Automatic Emergency Breaking (AEB)
+- Implementation and Integration of Camera and CAN Pipelines for Perception and AEB Algorithms
 - Development of various modules using Texas Instruments Vision SDK on TDA2Px hardware
 - Implementation using C, C++, Python
 
@@ -101,8 +100,8 @@ MACS (Multi Agent Cloud SLAM) collects map and location information from multipl
 
 #### Roles/Responsibility
 
-- Fusing GPS information in Monocular Visual SLAM
-- Augment semantic information into Visual SLAM pipeline
+- Setting up Docker build and run environment for [ORB_SLAM2](https://github.com/paul-michalik/ORB_SLAM2) for initial prototype
+- Implemented initial prototype to fuse GPS information
 - Implementation using C++, Python
 
 ### Navigation Middleware
