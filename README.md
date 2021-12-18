@@ -63,7 +63,7 @@ Jun 2019 – Present
 
 #### Description
 
-Simulink provides Variant Blocks which are used to create multiple variations of a model. Based on the configuration a particular variation will be activated. Variant Reducer used to reduce variations depending on user provided options. Variant Reducer is used to create a simpler model with minimum or no variations.
+Simulink provides Variant Blocks which are used to create multiple variations of a model. Based on the configuration a particular variation will be activated. Variant Reducer used to reduce variations depending on user provided options. [Variant Reducer](https://in.mathworks.com/help/simulink/ug/reduce-models-containing-variant-configurations.html) is used to create a simpler model with minimum or no variations.
 
 #### Roles/Responsibility
 
