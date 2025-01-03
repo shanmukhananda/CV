@@ -13,7 +13,7 @@
 
 ## Summary
 
-10 years of experience in Software Development using C++ for products like Simulink, Automotive Products like Navigation and Advanced Driver Assistance Systems.
+13 years of experience in Software Development using C++ for products like Simulink, Automotive Products like Navigation and Advanced Driver Assistance Systems.
 
 ---
 
@@ -33,7 +33,7 @@
 
 | Company                                              | Location           | Positions Held | Start-End | Duration |
 |------------------------------------------------------|------------------- | ---------------|---------- | ---------|
-| MathWorks                                            | Bengaluru          | Senior Software Engineer | Jun 2019 - Present | 2 years |
+| MathWorks                                            | Bengaluru          | Senior Software Engineer | Jun 2019 - Present | 5 years |
 | HARMAN International                                 | Bengaluru, USA     | Sr. Engineer, II, SW; Sr. Engineer I, SW; Engineer, SW | Jul 2014 - Jun 2019 | 4 year 11 months |
 | Robert Bosch Engineering and Business Solutions Ltd. | Bengaluru, Germany | Senior Software Engineer; Software Engineer; Associate Software Engineer | Jul 2011 - Jul 2014 | 3 years |
 
@@ -133,7 +133,7 @@ ADAS using eHorizon Project involved in providing the slope and curve informatio
 
 #### Roles/Responsibilities
 
-- Implementation of 30km Horizon for Integrated Predictive Power Train Control (IPPC) for trucks
+- Implementation of 30 km Horizon for [Integrated Predictive Power Train Control (IPPC)](https://patents.google.com/patent/DE102011121853A1/en) for trucks
 - Implementation using C++
 
 ### Route Calculation
